@@ -18,17 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gideon Moore 
-email: gsmoore@stanford.edu
+title: Janet Stefanov
+email: jmstef@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Economics PhD Student at Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.gideonmoore.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.janetstefanov.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-domain: www.gideonmoore.com
-
-# Google tracking ID
-google_analytics: G-3PEXK1E60N
+domain: www.janetstefanov.com
 
 # Build settings
 plugins:
@@ -49,16 +46,10 @@ minima:
   social_links:
     - title: Twitter
       icon: x-twitter
-      url: "https://twitter.com/GideonMoore"
-    - title: GitHub
-      icon: github
-      url: "https://github.com/gmoore016"
+      url: "https://x.com/JanetStefanov"
     - title: LinkedIn
       icon: linkedin
-      url: "https://www.linkedin.com/in/gideon-moore"
-    - title: BlueSky
-      icon: bluesky
-      url: "https://bsky.app/profile/gideonmoore.bsky.social"
+      url: "https://www.linkedin.com/in/janet-stefanov/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

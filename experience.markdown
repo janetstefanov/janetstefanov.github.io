@@ -2,36 +2,49 @@
 title: Experience
 ---
 
-### Stanford Institute for Economic Policy Research
-#### Predoctoral Research Fellow: _2019--2022_
-
-<img src="images/SIEPR_Logo.gif" width="30%" align="left" style="padding-right: 30px;">
-
-* Worked with Professor [Heidi Williams](https://heidi-williams.humsci.stanford.edu/) on projects related to the economics of innovation placing special focus on innovation in health care and drug development
-
-* Processed, organized, and analyzed large data sets such as the United States Patent and Trademark Office Bulk Data Repository and Clarivate’s Web of Science bulk data
-
-* Conducted original research as part of graduate coursework in the Stanford Economics department
+### Research Assistanct at Stanford University 
+#### RA: _2023-2024_
+* Worked with Professor Patrick Kehoe [Patrick Kehoe](https://pkehoe.people.stanford.edu) 
+*Worked with Professor Neale Mahoney [Neale Mahoney](https://nmahoney.people.stanford.edu) 
 
 &nbsp;
 
-### Federal Reserve Bank of Boston
-#### Research Intern: _Summer 2017 and Summer 2018_
+### Summer Institutes
+#### Chicago Price Theory Summer Camp: _2025_
 
-<img src="images/Fed_Logo.png" width="30%" align="left" style="padding-right: 30px;">
+<img src="images/BFI.png" width="30%" align="left" style="padding-right: 30px;">
 
-* Worked with Senior Economist [Ali Ozdagli](https://www.ozdagli.org/) studying currency exchange and securities pricing
-* collected and analyzed data for ongoing working paper ["Monetary Shocks and Stock Returns: Identification Through the Impossible Trinity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2328966)
-* Used Python to process bulk PDF archives to gather data for ["FOMC Communication and Interest Rate Sensitivity to News"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075842)
+#### Princeton Macro, Money, and Finance: _2023_
+
+<img src="images/Princeton.jpg" width="30%" align="left" style="padding-right: 30px;">
+
+&nbsp;
+
+
+### Vanderbilt Data Science Institute
+#### Summer Research Fellowship: _2021_
+
+<img src="images/Vanderbilt Data Sccience Logo.png" width="30%" align="left" style="padding-right: 30px;">
+
+* Worked with Professor [Kathleen McKiernan](https://my.vanderbilt.edu/kmckiernan/) on projects related to the economics of social security. 
+
+&nbsp;
+
+### Research Experience for Undergraduates at Rose-Hulman Institute of Technology
+#### REU Participant in Mathematics: _Summer 2020_
+
+<img src="images/REU.png" width="30%" align="left" style="padding-right: 30px;">
+
+* Worked with Professor Wayne Tarrant [Wayne Tarrant](https://www.linkedin.com/in/wayne-tarrant-216972aa/) studying M-Pesa adoption using diffusion models
 
 &nbsp;
 
 &nbsp;
 
-### Bowdoin College
-#### Research Assistant: _Fall 2017_
+### Proassurance Insurance Company
+#### Actuarial Intern: _Summer 2022_
 
-<img src="images/Bowdoin_Logo.jpg" width="30%" align="left" style="padding-right: 30px;">
+<img src="images/PRA_Logo.jpg" width="30%" align="left" style="padding-right: 30px;">
 
-* Worked with Assistant Professors [Matthew Botsch](http://econgrads.berkeley.edu/mjbotsch/) and [Stephen Morris](https://sites.google.com/site/stephendmorris0/)
-* Helped collect data for ["Job Loss, Expected Mobility, and Home Ownership"](http://econgrads.berkeley.edu/mjbotsch/files/2019/08/bm19.pdf)
+* Worked with Sokol Berisha [Sokol Berisha](https://www.linkedin.com/in/sokol-berisha-b7a71654/) on a project to automate rate filings 
+*Worked with Tonya Bussey [Tonya Bussey](https://www.linkedin.com/in/tonya-bussey-a2586a29//) on various state-level rate filings 
