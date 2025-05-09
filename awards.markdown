@@ -4,11 +4,11 @@ title: Awards
 
 ## Stanford University
 
-I received a TA award for my work in Economics 108 with Han Hong in Winter 2025.
+* I received a TA award for my work in Economics 108 with Han Hong in Winter 2025.
 
-I also received an NSF GRFP award in 2022. 
+* I also received an NSF GRFP award in 2022. 
 
-##Vanderbilt University
+## Vanderbilt University
 
 At Vanderbilt I received awards including:
 * Cornelius Vanderbilt Scholarship--Full tuition and fees for four years
