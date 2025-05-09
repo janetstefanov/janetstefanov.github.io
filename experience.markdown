@@ -2,17 +2,20 @@
 title: Experience
 ---
 
-### Research Assistanct at Stanford University 
+### Research Assistant at Stanford University 
 #### RA: _2023-2024_
 * Worked with Professor Patrick Kehoe [Patrick Kehoe](https://pkehoe.people.stanford.edu) 
-*Worked with Professor Neale Mahoney [Neale Mahoney](https://nmahoney.people.stanford.edu) 
+* Worked with Professor Neale Mahoney [Neale Mahoney](https://nmahoney.people.stanford.edu) 
 
 &nbsp;
 
 ### Summer Institutes
+
 #### Chicago Price Theory Summer Camp: _2025_
 
 <img src="images/BFI.png" width="30%" align="left" style="padding-right: 30px;">
+
+&nbsp;
 
 #### Princeton Macro, Money, and Finance: _2023_
 
@@ -24,7 +27,7 @@ title: Experience
 ### Vanderbilt Data Science Institute
 #### Summer Research Fellowship: _2021_
 
-<img src="images/Vanderbilt Data Sccience Logo.png" width="30%" align="left" style="padding-right: 30px;">
+<img src="images/Vanderbilt Data Science.jpeg" width="30%" align="left" style="padding-right: 30px;">
 
 * Worked with Professor [Kathleen McKiernan](https://my.vanderbilt.edu/kmckiernan/) on projects related to the economics of social security. 
 
@@ -33,11 +36,9 @@ title: Experience
 ### Research Experience for Undergraduates at Rose-Hulman Institute of Technology
 #### REU Participant in Mathematics: _Summer 2020_
 
-<img src="images/REU.png" width="30%" align="left" style="padding-right: 30px;">
+<img src="images/REU.jpeg" width="30%" align="left" style="padding-right: 30px;">
 
 * Worked with Professor Wayne Tarrant [Wayne Tarrant](https://www.linkedin.com/in/wayne-tarrant-216972aa/) studying M-Pesa adoption using diffusion models
-
-&nbsp;
 
 &nbsp;
 
