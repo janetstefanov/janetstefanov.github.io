@@ -11,4 +11,4 @@ I am currently a PhD student in the Stanford economics department interested in 
 
 Prior to joining the Stanford PhD program, I completed my B.A. at Vanderbilt University in 20122, studying Economics,Mathematics, and Russian. 
 
-It's easiest to reach me by email at <a title="Email" href="#" data-email_b64="Z3Ntb29yZUBzdGFuZm9yZC5lZHU="></a>.
+It's easiest to reach me by email at <a title="Email" href="#" data-email_b64="am1zdGVmQHN0YW5mb3JkLmVkdQ=="></a>.
