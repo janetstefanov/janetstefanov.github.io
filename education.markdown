@@ -28,7 +28,7 @@ PhD student, started fall 2022.
 
 
 <center>
-<img src="images/Vanderbilt_Logo.jpg" width="50%" class="center">
+<img src="images/Vanderbilt_Logo.png" width="50%" class="center">
 </center>
 
 ### **B.A., Economics (Highest Honors), Mathematics, Russian**
@@ -40,17 +40,16 @@ PhD student, started fall 2022.
 * _Game Theory_--Spring 2021 with John Weymark
 *_Social Choice Theory_ --Spring 2020 with John Weymark
 * _Econometrics_--Spring 2020 with Pedro Sant'Anna
-* _Evaluation of Public Programs_--Spring 2017 with John Fitzgerald
 
 ### Mathematics Coursework
 * _Real Analysis_--Fall 2021 
 * _Numerical Methods_--Fall 2021 
 * _Advanced Statistics_--Spring 2020
-*_Abstract Algebra_--Spring 2022
-*_Complex Analysis_--Spring 2021 
+* _Abstract Algebra_--Spring 2022
+* _Complex Analysis_--Spring 2021 
 
-### Teaching: 
-*_Differential Equations (Proof Based)_ -- Fall 2019-Spring 2022 (Edward Saff)
+### Teaching
+* _Differential Equations (Proof Based)_ -- Fall 2019-Spring 2022 (Edward Saff)
 * _Business Calculus_--Spring 2020
 
 
