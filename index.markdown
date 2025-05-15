@@ -9,6 +9,6 @@ layout: home
 
 I am currently a PhD student in the Stanford economics department interested in trade, macroeconomics, and industrial organization. 
 
-Prior to joining the Stanford PhD program, I completed my B.A. at Vanderbilt University in 20122, studying Economics,Mathematics, and Russian. 
+Prior to joining the Stanford PhD program, I completed my B.A. at Vanderbilt University in 2022, studying Economics, Mathematics, and Russian. 
 
 It's easiest to reach me by email at <a title="Email" href="#" data-email_b64="am1zdGVmQHN0YW5mb3JkLmVkdQ=="></a>.
