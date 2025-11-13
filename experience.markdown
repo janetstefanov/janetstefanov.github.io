@@ -4,8 +4,13 @@ title: Experience
 
 ### Research Assistant at Stanford University 
 #### RA: _2023-2024_
-* Worked with Professor Patrick Kehoe [Patrick Kehoe](https://pkehoe.people.stanford.edu) 
-* Worked with Professor Neale Mahoney [Neale Mahoney](https://nmahoney.people.stanford.edu) 
+* Worked with Professor [Patrick Kehoe](https://pkehoe.people.stanford.edu) 
+* Worked with Professor [Neale Mahoney](https://nmahoney.people.stanford.edu) 
+
+### Teaching Assistant at Stanford University 
+#### TA: _2024-2025_
+* Winter 2025: Data Science for Business and Economics with Professor [Han Hong](https://profiles.stanford.edu/han-hong?tab=bio) 
+* Spring 2025: Econ 152 Advanced Macroeconomics with Professor [Adrien Auclert](https://aauclert.people.stanford.edu) 
 
 &nbsp;
 
