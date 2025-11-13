@@ -27,8 +27,8 @@ url: "https://www.janetstefanov.com" # the base hostname & protocol for your sit
 
 domain: www.janetstefanov.com
 
-# Google Analytics ID
-google_analytics: G-ESXVPNVXWL
+# Google Analytics ID (managed via custom footer include)
+
 
 # Build settings
 plugins:
