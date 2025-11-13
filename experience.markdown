@@ -10,7 +10,9 @@ title: Experience
 ### Teaching Assistant at Stanford University 
 #### TA: _2024-2025_
 * Winter 2025: Data Science for Business and Economics with Professor [Han Hong](https://profiles.stanford.edu/han-hong?tab=bio) 
+* Winter 2025: PhD Macroeconomics II Tutor with Professors [Pete Klenow](http://www.klenow.com) and [Adrien Auclert](https://aauclert.people.stanford.edu) 
 * Spring 2025: Econ 152 Advanced Macroeconomics with Professor [Adrien Auclert](https://aauclert.people.stanford.edu) 
+
 
 &nbsp;
 
