@@ -23,7 +23,7 @@ PhD student, started fall 2022.
 
 ### Service:
 * Founding Organizer, Student Macro Workshop (Fall 2024- Spring 2025)
-* Organizer, StanfordWomen in Economics Group (Fall 2022-Spring 2025)
+* Organizer, Stanford Women in Economics Group (Fall 2022-Spring 2025)
 * Organizer, Stanford-Spelman Summer Program (Fall 2022-Present)
 
 
