@@ -6,7 +6,7 @@ title: Research
 
 Fall 2025. 
 
-*Abstract*: Digital trade has grown rapidly and now accounts for a large share of global commerce, yet digital goods continue to exhibit systematic cross-country price dispersion unexplained by standard mechanisms such as trade costs, wages, or product differentiation. This paper shows that firms strategically use imperfect geo-blocking to price discriminate, maintaining higher prices in wealthy markets while allowing price-sensitive consumers to access cheaper foreign prices. I document this mechanism using novel data from the global video game market that combine cross-country price and quantity information with text data on enforcement and arbitrage activity. I develop a dynamic model in which heterogeneous consumers choose purchase locations and firms optimally set prices and enforcement strategies. Estimating the model by inverting the firm’s pricing problem allows me to assess welfare and distributional effects. Counterfactuals comparing prices under segmented, unified, and partially porous digital regimes reveal that partial integration benefits price-sensitive consumers in rich countries while disadvantaging consumers in poorer markets, highlighting trade-offs in digital market unification policies.
+*Abstract*: In the digital age, physical transport costs have vanished, yet massive cross-country price dispersion remains. This paper argues that digital trade has undergone a fundamental shift from physical, geographic trade costs to strategic, digital access. I show that digital "borders" are endogenous firm choices rather than exogenous constraints. Using novel data from the global video game market and text data on arbitrage activity on social media, I document how firms strategically maintain "porous" borders—intentionally allowing some arbitrage to preserve high-margin price discrimination in wealthier markets. Based on reduced form evidence, I develop and estimate a dynamic model of firm pricing and enforcement to quantify the welfare effects of digital trade policy. Counterfactual estimates suggest that although unifying markets (as in the EU Digital Single Market strategy) lowers prices in wealthy nations by around 20%, it triggers a spike in prices of ~300% in emerging markets. These results suggest that in the digital economy, policies that support price unification have vastly heterogeneous effects, redefining the political economy of global trade policy. 
 
 #### The Cost of Port Disruptions: Evidence from U.S. Containerized Trade (with Lautaro Chittaro, Stephen Redding, and Shoshana Vasserman)
 
@@ -16,4 +16,4 @@ Fall 2025.
 
 #### Disruptions to Dollars: The Case of Maritime Trade Shocks 
 
-#### Housing and Aging (with Augustus Kmetz)
+#### Learning by Doing and the Life Cycle of Innovation (with Gideon Moore and Sam Thau)
