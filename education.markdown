@@ -12,7 +12,7 @@ PhD student, started fall 2022.
 ### Coursework:
 * _Industrial Organization_ sequence (2023-2024)
 * _Macroeconomics_ sequence (2023-2024)
-*_International Trade and Spatial Economics_ sequence (2024-2025)
+* _International Trade and Spatial Economics_ sequence (2024-2025)
 * _Public Economics I_ (2023) 
 * Micro, Macro, and Econometrics core sequences (2022-2023)
 
@@ -36,9 +36,9 @@ PhD student, started fall 2022.
 ### Economics Coursework
 * Honors Thesis--Fall 2021-Spring 2022, supervised by Joel Rodrigue
 * _International Trade and Development_--Spring 2021 with Joel Rodrigue and Kamal Saggi
-*_Macroeconomics (M.A. Level)_ --Fall 2020 with Kathleen McKiernan
+* _Macroeconomics (M.A. Level)_ --Fall 2020 with Kathleen McKiernan
 * _Game Theory_--Spring 2021 with John Weymark
-*_Social Choice Theory_ --Spring 2020 with John Weymark
+* _Social Choice Theory_ --Spring 2020 with John Weymark
 * _Econometrics_--Spring 2020 with Pedro Sant'Anna
 
 ### Mathematics Coursework

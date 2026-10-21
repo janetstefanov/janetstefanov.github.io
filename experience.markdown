@@ -45,7 +45,7 @@ title: Experience
 
 <img src="images/REU.jpeg" width="30%" align="left" style="padding-right: 30px;">
 
-* Worked with Professor Wayne Tarrant [Wayne Tarrant](https://www.linkedin.com/in/wayne-tarrant-216972aa/) studying M-Pesa adoption using diffusion models
+* Worked with Professor [Wayne Tarrant](https://www.linkedin.com/in/wayne-tarrant-216972aa/) studying M-Pesa adoption using diffusion models
 
 &nbsp;
 
@@ -54,5 +54,5 @@ title: Experience
 
 <img src="images/PRA_Logo.jpg" width="30%" align="left" style="padding-right: 30px;">
 
-* Worked with Sokol Berisha [Sokol Berisha](https://www.linkedin.com/in/sokol-berisha-b7a71654/) on a project to automate rate filings 
-*Worked with Tonya Bussey [Tonya Bussey](https://www.linkedin.com/in/tonya-bussey-a2586a29//) on various state-level rate filings 
+* Worked with [Sokol Berisha](https://www.linkedin.com/in/sokol-berisha-b7a71654/) on a project to automate rate filings 
+* Worked with [Tonya Bussey](https://www.linkedin.com/in/tonya-bussey-a2586a29/) on various state-level rate filings 
